@@ -21,7 +21,7 @@ Waterbear is a simple yet powerful Python database library that stores data in J
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/MOHAPY24/Waterbear.git
 cd Waterbear
 
 # No additional dependencies required beyond Python standard library
