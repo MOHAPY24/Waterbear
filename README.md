@@ -1,2 +1,2 @@
 # Waterbear
-# Lightweight JSON-Based Database client.
+## Lightweight JSON-Based Database client.
